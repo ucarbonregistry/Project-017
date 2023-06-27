@@ -35,6 +35,31 @@ fossil fuels. The project activity hence avoids CH4 and CO2 emissions and is ben
 environment and community
 _____________________
 CoUs Date Issued: 27/06/23
+
+Total Quantity Issued 1,43,945 CoUs.
 _________________________
+Serial Number: 0001-000001-002030-UCR-CoU-IN-017-01012018-31122018
+
+Vintage Year: 2018
+
+CoU's Available: 2,030
+__________________
+Serial Number: 0001-002031-031948-UCR-CoU-IN-017-01012019-31122019
+
+Vintage Year: 2019
+
+CoU's Available: 29,918
+_______________________________
+Serial Number: 0001-031949-078834-UCR-CoU-IN-017-01012020-31122020
+
+Vintage Year: 2020
+
+CoU's Available: 46,886
+______________________
+Serial Number:0001-086032-143945-UCR-CoU-IN-017-01012021-31102021
+
+Vintage Year:2021
+
+CoU's Available:57,914
 
 
