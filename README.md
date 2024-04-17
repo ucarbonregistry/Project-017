@@ -56,10 +56,10 @@ Vintage Year: 2020
 
 CoU's Available: 46,886
 ______________________
-Serial Number:0001-086032-143945-UCR-CoU-IN-017-01012021-31102021
+Serial Number:0001-078835-143945-UCR-CoU-IN-017-01012021-31102021
 
 Vintage Year:2021
 
-CoU's Available:57,914
+CoU's Available:65111
 
 
